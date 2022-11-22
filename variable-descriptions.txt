@@ -1,0 +1,70 @@
+Variable Descriptions:
+
+Tax roll number - Unique number used to identify property
+
+Landuse Description - How the land is being used i.e. residential, industrial, cultural
+
+Market building class - Properties of the property i.e. 2-storey, duplex, basement, garage, etc
+
+Effective build year - Year that home was remodeled significantly
+
+Net Area - Areas that belong in your space, does not include commonly shared areas that can be used by others
+
+Basement Finished - Yes or No if basement is finished
+
+Has Garage - Yes or No if property has a garage
+
+Has Fireplace - Yes or No if propery has a fireplace
+
+Assessed Value - The assessed price of the property (response variable)
+
+House Suite - Self contained residence with rooms such as a kitchen, living room, sleeping quarters, & sanitary facilities
+
+House Number - Number associated with property (not just houses)
+
+House Suff - ?
+
+Street Name - 
+
+Postal Code - 
+
+City - All Edmonton values
+
+Full Address - 
+
+Neighborhood - 
+
+Taxable Property - Properties that are taxed, exceptions include non-profits
+
+Fully Complete - Dwelling is fully complete and occupancy can be issued
+
+Lot Size - Area of lot in metres squared / feet squared / acre
+
+Building Count - Number of buildings on property
+
+Build Year MBC - Build year + market building class
+
+Walkout Basement - 
+
+Air Conditioning - 
+
+Valuation Group - Whether land is being used for residential purposes or non-profits, etc
+
+Display Type - Residential vs. Non-Residential
+
+Site Coverage - Total horizontal area of all buildings on site which are located at or higher than 1.8 m above grade
+
+Total Gross Area Description - Gross area in metre squared / feet squared
+
+Geometry - Geometry of property represented as a polygon with corner lat/longs listed
+
+Result Code - ?
+
+Longitude -
+
+Latitude - 
+
+
+
+
+
