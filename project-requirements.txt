@@ -1,0 +1,43 @@
++++Objective+++
+
+Predict the "assessed_value" of a house using whatever features you can utilize. Model learning should be based on the provided training dataset. Test performance must be reported on the provided test dataset.
+
+1. Do not remove any sample from test set. All the samples in test set must be used for testing. If there is a missing feature in a sample, think about ways to deal with it. No sample should be removed from the test set. And test set should not participate in the model training or model selection.
+
+2. Report Mean Absolute Percentage Error (MAPE) test data. Other metrics like RMSE, MAE, etc. could also be used to provide more information. But MAPE must be reported. 
+
+3. For training data set, you can use whatever information you can make use of. If there is missing information or messed up information, it is not an error of the project, since this is how real data look like. Neat and clean data entries are an illusion created by instructors in classrooms. In reality, you are not always guaranteed to get perfect, clean and neat information for the data you work on.
+
+The worst case is that you give up using some information if you do not know how to use it. But if you are going to use it, think about how. How to use the provided features is a challenge of the project. 
+
+4. You may also download additional house features for these houses from Edmonton Open Data. But make sure the features you use in making the prediction do not include any kind of "assessed value" of any year, using which will be deemed cheating. 
+
+More information about neighborhood and housing information can be found, for example at:
+
+https://data.edmonton.ca
+
+https://data.edmonton.ca/City-Administration/Property-Assessment-Data-2012-2016-/qi6a-xuwt/data
+
+
+
++++Team+++
+
+Please work in teams up to 3 people. If you work yourself, it is discouraged but is permitted. The teammates in a same team will all receive the same marks for final project, without ascertaining who is contributing to what. A 1-person team or 2-person team will not enjoy an advantage  in marking just because there are fewer people in the team. All teams will be marked under the same criteria, no matter how many people are in the team.
+
+
+
++++Evaluation+++
+
+Your project will be evaluated based on a presentation delivered followed by brief Q/A with referee (which is the instructor), at the end of this term. All group members must present some part of the presentation. 1 point will be deducted if not all group members appear in the presentation.
+
+Marking will be based on:
+
+1. Technical correctness
+
+2. Novelty in developing methods to improve performance over your own baseline
+
+3. Insights obtained and presented 
+
+4. Overall efforts spent
+
+5. Clarity of logic and presentation
